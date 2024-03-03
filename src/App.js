@@ -29,6 +29,10 @@ function App() {
 
   return (
     <div className="App">
+      <h1>
+      <a href="https://johnkimaiyo.vercel.app/">Return to Home Page</a>
+
+      </h1>
       <h1>Crypto Prices</h1>
       <table>
         <thead>
