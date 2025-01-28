@@ -31,6 +31,7 @@ function App() {
     <div className="App">
       
       <h1>Crypto Prices</h1>
+      <h2> Developed by John Kimaiyo</h2>
       <table>
         <thead>
           <tr>
